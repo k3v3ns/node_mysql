@@ -16,7 +16,7 @@ const connection = mysql.createConnection({
   password: '210a1975',
   database: 'heroku_c00e3dbd564d942'
 });
-////mysql://b9ce8e5823705c:210a1975@us-cdbr-east-05.cleardb.net/heroku_c00e3dbd564d942?reconnect=true
+//mysql://b9ce8e5823705c:210a1975@us-cdbr-east-05.cleardb.net/heroku_c00e3dbd564d942?reconnect=true
 
 
 // Route
